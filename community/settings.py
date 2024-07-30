@@ -29,7 +29,7 @@ SECRET_KEY = config("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['port-0-central-hackathon-lz8nmpx1a3686506.sel4.cloudtype.app', '127.0.0.1']
 
 
 # Application definition
