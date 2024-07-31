@@ -57,6 +57,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     # simple-jwt 관련
     'rest_framework_simplejwt',
+    'corsheaders',
 ]
 
 
